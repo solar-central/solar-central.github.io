@@ -1,0 +1,107 @@
+@font-face {
+	font-weight: normal;
+	font-style: normal;
+	font-family: 'Lato';
+	src:url('../../assets/fonts/lato/Lato-Regular.eot');
+	src:url('../../assets/fonts/lato/Lato-Regular.woff') format('woff'),
+			url('../../assets/fonts/lato/Lato-Regular.ttf') format('truetype');
+}
+
+*, *:after, *:before { -webkit-box-sizing: border-box; box-sizing: border-box; }
+.clearfix:before, .clearfix:after { content: ''; display: table; }
+.clearfix:after { clear: both; }
+
+html{
+	background-image: url('../../assets/pics/background/bg1.jpg');
+}
+
+body {
+	color: #fffce1;
+	font-weight: 400;
+	font-size: 1em;
+	font-family: 'Lato', Arial, sans-serif;
+	vertical-align: middle;
+}
+
+
+a {
+	color: #4e4a46;
+	text-decoration: none;
+	outline: none;
+}
+
+a:hover, a:focus {
+	color: #c94e50;
+	outline: none;
+}
+
+button:focus {
+	outline: none;
+}
+
+section {
+	padding: 1em;
+	text-align: center;
+}
+
+/* Header */
+.krish-header {
+	position: relative;
+	width: 100%;
+	padding: 1em 1em;
+	margin-top: 2.5em;
+	text-align: center;
+}
+
+.krish-header h1 {
+	margin: 0 auto;
+	font-weight: 800;
+	font-size: 3.75em;
+	line-height: 1;
+}
+
+.krish-header img {
+	border-radius: 1%;
+}
+
+.krish-header h1 span {
+	display: block;
+	font-size: 50%;
+	font-weight: 400;
+	padding-top: 0.325em;
+}
+
+.krish-links {
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 0.69em;
+	line-height: 2.2;
+	padding: 1.61em 5em;
+}
+
+.krish-links a {
+	display: inline-block;
+	padding: 0 1em;
+	text-decoration: none;
+	letter-spacing: 1px;
+}
+
+.krish-icon:before {
+	margin: 0 4px;
+	text-transform: none;
+	font-weight: normal;
+	font-style: normal;
+	font-variant: normal;
+	font-family: 'codropsicons';
+	line-height: 1;
+	speak: none;
+	-webkit-font-smoothing: antialiased;
+}
+
+.krish-icon-drop:before {
+	content: "\e001";
+}
+
+.krish-icon-prev:before {
+	content: "\e004";
+}

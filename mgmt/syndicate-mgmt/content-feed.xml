@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+
+        <title>Meteor shower from Cosmobird...</title>
+        <link>https://cosmobird.github.io</link>
+        <language>en-us</language>
+
+        <docs>http://www.rssboard.org/rss-specification</docs>
+        <creativeCommons:license>http://creativecommons.org/licenses/by-nc-sa/2.5/</creativeCommons:license>
+
+        <managingEditor>lrmodes@gmail.com</managingEditor>
+        <webMaster>lrmodes@gmail.com</webMaster>
+
+        <description>
+            Whats Up ? Human, feeling miserable ? :)
+        </description>
+
+        <atom:link href="https://cosmobird.github.io/mgmt/syndicate-mgmt/content-feed.xml" rel="self" type="application/rss+xml"/>
+
+        <item>
+            <title>Hope for Amy walters</title>
+            <link>https://cosmobird.github.io/philosophy.html</link>
+            <guid>https://cosmobird.github.io/philosophy.html</guid>
+            <category>Philosophy</category>
+            <description>
+                Life and Death
+            </description>
+            <author>Sandra Paulson</author>
+            <pubDate>Fri, 03 Jun 2016 04:00:00 GMT</pubDate>
+            <creativeCommons:license>http://creativecommons.org/licenses/by-sa/2.5/</creativeCommons:license>
+        </item>
+
+    </channel>
+
+</rss>

@@ -1,2 +1,2 @@
-# solar-central.github.io
-dissemination of solar-photo voltaics knowledge
+# cosmobird.github.io
+web, blog, thought, expression

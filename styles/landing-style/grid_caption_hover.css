@@ -1,0 +1,64 @@
+/*GRID CAPTIONS IN PAGE*/
+.grid {
+	padding: 10px 10px 10px 10px;
+	min-width: 20%;
+	max-width: 80%;
+	margin: 0 auto;
+	list-style: none;
+	text-align: center;
+}
+
+.grid li {
+	display: inline-block;
+	min-width: 200px;
+	max-width: 200px;
+	min-height: 200px;
+	margin: 0;
+	padding: 20px;
+	text-align: left;
+	position: relative;
+}
+
+.grid figure {
+	margin: 0;
+	position: relative;
+}
+
+.grid figure a {
+	text-align: center;
+	color: #fff;
+}
+
+.grid figure img {
+	max-width: 100%;
+	display: block;
+	position: relative;
+}
+
+.grid figcaption {
+	min-width: 100%;
+	position: absolute;
+	padding: 2px;
+	background: #2c3f52;
+	color: #ed4e6e;
+}
+
+.grid figcaption h3 {
+	margin: 0;
+	padding: 0;
+	color: #fff;
+	text-align: center;
+}
+
+
+
+@media screen and (width: 800px) {
+	.grid {
+		padding: 10px 10px 10px 10px;
+	}
+	.grid li {
+		width: 100%;
+		min-width: 200px;
+	}
+}
+/*GRID CAPTIONS IN PAGE*/
