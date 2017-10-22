@@ -1,0 +1,84 @@
+@font-face {
+    font-family: "pt_sans_narrow-regular";
+    font-weight: normal;
+    font-style: normal;
+    src:url("../../assets/fonts/ptsansnarrow/PT_Sans-Narrow-Regular.ttf") format("truetype");
+}
+
+/*GRID CAPTIONS IN PAGE*/
+.grid {
+    padding: 10px 10px 10px 10px;
+    min-width: 20%;
+    max-width: 80%;
+    margin: 0 auto;
+    list-style: none;
+    text-align: center;
+}
+
+.grid li {
+    display: inline-block;
+    min-width: 160px;
+    max-width: 160px;
+    min-height: 160px;
+    margin: 30px 20px;
+    padding: 10px;
+    text-align: left;
+    position: relative;
+}
+
+.grid figure {
+    margin: 0 auto;
+    position: relative;
+}
+
+.grid a {
+    text-align: center;
+    color: #fff;
+}
+
+.grid img {
+    width: 100%;
+    max-height: 200px;
+    display: block;
+    position: relative;
+}
+
+.with-shadow {
+    box-shadow: 0px 0px 3px rgba(0,0,0,1);
+}
+
+.grid figcaption {
+    width: 100%;
+    position: absolute;
+    padding: 2px;
+    background: #2c3f52;
+    color: #ffffff;
+    text-align: center;
+}
+
+.grid .book-caption{
+    font-family: pt_sans_narrow-regular;
+    font-size: 1em;
+    position: relative;
+    display: inline-block;
+    margin: 7px auto 7px auto;
+    text-align: center;
+    width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+
+/*When Viewport reaches 1366px*/
+@media screen and (max-width: 1366px) {
+    .grid {
+	padding: 10px 10px 10px 10px;
+	max-width: 1024px;
+    }
+    .grid li {
+	max-width: 160px;
+	margin: 30px 20px;	
+    }
+}
+/*GRID CAPTIONS IN PAGE*/

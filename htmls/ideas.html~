@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+
+  <head>
+
+    <!-- META -->
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="description" content="My Ideas category" />
+    <meta name="keywords" content="cosmobird" />
+    <meta name="author" content="cosmobird" />
+
+    <!-- TITLE -->
+    <title>Cosmobird Ideas Category</title>
+
+    <!-- STYLE STHEETS -->
+    <link rel="stylesheet" type="text/css" href="../styles/category-style/category.css" />
+    <link rel="stylesheet" type="text/css" href="../styles/category-style/grid_caption_hover.css" />
+    <link rel="stylesheet" type="text/css" href="../styles/font-awesome/font-awesome.css" />
+    <link rel="stylesheet" type="text/css" href="../styles/balloons/balloon.css" />
+
+    <!-- SCRIPTS -->
+    <script type="text/javascript" src="../scripts/analytics/analytics.js"></script>
+
+  </head>
+
+  <body>
+
+    <div>
+
+      <!-- header -->
+      <header class="category-header">
+	<a href="../htmls/ideas.html" data-balloon="all ideas are built on earlier one" data-balloon-pos="down">
+	  <img src="../assets/pics/category/Ideas.png" alt="header" />
+	</a>
+      </header>
+      <!-- /header -->
+
+      <!-- grid -->
+      <ul class="grid">
+
+	<!-- Research and Data supporting all these ideas can linked to the respective contents in research category -->
+
+	<!--
+	<li>
+	  <figure data-balloon="Data ( by + for + of ) the Commons" data-balloon-pos="up">
+	    <a href="../content/category/ideas/commons-data/commons-data.html">
+	      <img src="../assets/pics/content/Commons-Data.png" alt="Commons Open Data">
+	      <figcaption>
+		Commons Data.
+	      </figcaption>
+	    </a>
+	  </figure>
+	</li>
+	-->
+
+	<!-- P2P function & form for Instrumenting Commons -->
+	<li>
+	  <figure data-balloon="Make the Right to Evaluate !" data-balloon-pos="up">
+	    <a href="../content/category/ideas/grating-maker/grating-maker.html">
+	      <img src="../assets/pics/content/Tech-Grating-Maker.png" alt="Grating Maker">
+	      <figcaption>
+		Grating Maker
+	      </figcaption>
+	    </a>
+	  </figure>
+	</li>
+
+	<!-- How We are making through our Cooperation  -->
+	<li>
+	  <figure data-balloon="Our Little Alternate Evolution" data-balloon-pos="up">
+	    <a href="../content/category/ideas/commons-coops/boot-coops.html">
+	      <img src="../assets/pics/content/Boot-Coops.png" alt="Booting Cooperatives">
+	      <figcaption>
+		Boot Coops
+	      </figcaption>
+	    </a>
+	  </figure>
+	</li>	
+	
+	<!--
+	     Cooperative Food : Decentralized Produce, Sharing, Consumption.
+	     Right to inspect acquired Food, by the Commons : What will be possibilities & implications 
+	     if commons had the instrument to inspect themselves ? in a Capital centric Consumerist
+	     society
+	  -->
+	<li>
+	  <figure data-balloon="Social Food" data-balloon-pos="up">
+	    <a href="../content/category/ideas/commons-food/coop-food.html">
+	      <img src="../assets/pics/content/Coop-Food.png" alt="Social Food">
+	      <figcaption>
+		Coop + Food
+	      </figcaption>
+	    </a>
+	  </figure>
+	</li>
+
+	
+	<!-- 
+	     Local Coop Ideas : Local area Transport/Transit Service & Mgmt.
+	     Economy that respects Ecology, Locality
+	     How Distributed Design Tools + FS/FH + Web will influence N/W ing.
+	  -->
+	<li>
+	  <figure data-balloon="Cooperative Nerves" data-balloon-pos="up">
+	    <a href="../content/category/ideas/commons-transport/coop-transport.html">
+	      <img src="../assets/pics/content/Coop-Transit.png" alt="Coop-Transport & N/W">
+	      <figcaption>
+		Coop + Transit <!-- Coop + Transit/Transport + Nervous System :)x -->
+	      </figcaption>
+	    </a>
+	  </figure>
+	</li>
+
+	
+	<!-- 
+	     Local Coop Ideas : Cooperative Community Networks.
+	     Communication that never asks for privacy
+	     How Distributed Design Tools + FS/FH + Web will influence N/W ing.
+	  -->
+	<li>
+	  <figure data-balloon="Cooperative Waves" data-balloon-pos="up">
+	    <a href="../content/category/ideas/commons-comms/coop-comms.html">
+	      <img src="../assets/pics/content/Coop-Comms.png" alt="Coop-Comms & N/W">
+	      <figcaption>
+		Coop + Comms
+	      </figcaption>
+	    </a>
+	  </figure>
+	</li>
+
+
+	<!-- 
+	     Local Coop Ideas : Cooperative Energy Networks.
+	     Decentralized Energy Generation, Sharing, Budgeting
+	     How Distributed Design Tools + FS/FH + Web will influence N/W ing.
+	  -->
+	<li>
+	  <figure data-balloon="Cooperative Energy" data-balloon-pos="up">
+	    <a href="../content/category/ideas/commons-energy/coop-energy.html">
+	      <img src="../assets/pics/content/Coop-Energy.png" alt="Coop-Energy & N/W">
+	      <figcaption>
+		Coop + Energy
+	      </figcaption>
+	    </a>
+	  </figure>
+	</li>
+
+	
+	
+	<!-- 
+	     Local Coop Ideas : Textile Trailor N/W  
+	     Economy that respects Locality
+	     Try to Include : Cooptex cast study
+	     How Distributed Design Tools + FS/FH + Web will influence N/W ing.
+	  -->
+	<li>
+	  <figure data-balloon="Network of Local Textile Tailors" data-balloon-pos="up">
+	    <a href="../content/category/ideas/commons-textile/local-tailoring.html">
+	      <img src="../assets/pics/content/Coop-Tailoring.png" alt="Local Tailoring N/W">
+	      <figcaption>
+		CoopTail
+	      </figcaption>
+	    </a>
+	  </figure>
+	</li>
+	
+	<!-- 
+	     Local Coop Ideas : Precious Plastic N/W , Part of P2P + Circular/Coop. 
+	     Economy that respects Ecology, Locality
+	     How Distributed Design Tools + FS/FH + Web will influence N/W ing.
+	  -->
+	<li>
+	  <figure data-balloon="Will be a Satisfying Coop." data-balloon-pos="up">
+	    <a href="../content/category/ideas/commons-plastic/coop-plastic.html">
+	      <img src="../assets/pics/content/Coop-Plastic.png" alt="Circular Coop-Plastic & N/W">
+	      <figcaption>
+		CooPlast
+	      </figcaption>
+	    </a>
+	  </figure>
+	</li>
+
+	
+	<!-- Local Coop Ideas : Coop Library  -->
+	
+	
+	<!--
+	    <li>
+	      <figure data-balloon="Intelligent Constitution" data-balloon-pos="up">
+		<a href="../content/category/ideas/commons-constitution/intelligent-constitution.html">
+		  <img src="../assets/pics/content/Intelligent-Constitution.png" alt="Intelligent Constitution">
+		  <figcaption>
+		    Live Consitution
+		  </figcaption>
+		</a>
+	      </figure>
+	    </li>
+	 -->	
+
+      </ul>
+      <!-- grid -->
+    </div>
+
+  </body>
+
+  <!-- SCRIPTS -->
+
+</html>

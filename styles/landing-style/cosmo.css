@@ -1,0 +1,249 @@
+@font-face {
+    font-weight: normal;
+    font-style: normal;
+    font-family: 'Lato';
+    src:url('../../assets/fonts/lato/Lato-Regular.eot');
+    src:url('../../assets/fonts/lato/Lato-Regular.woff') format('woff'),
+    url('../../assets/fonts/lato/Lato-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-weight: normal;
+    font-style: normal;
+    font-family: 'SourceCodePro';
+    src:url('../../assets/fonts/sourcecodepro/SourceCodePro-Regular.ttf') format('truetype');
+}
+
+*, *:after, *:before { -webkit-box-sizing: border-box; box-sizing: border-box; }
+.clearfix:before, .clearfix:after { content: ''; display: table; }
+.clearfix:after { clear: both; }
+
+html,body {
+    background: #fdfdf8; /*#b4bad2;*/
+    color: #111111;
+    font-weight: 400;
+    font-size: 1em;
+    font-family: 'Lato', Arial, sans-serif;
+    vertical-align: middle;
+}
+
+
+pre {
+    font-family: 'SourceCodePro';
+    font-size: 13px;
+    font-weight: 400;
+    color: #111111;
+}
+
+a {
+    color: #4e4a46;
+    text-decoration: none;
+    outline: none;
+}
+
+a:hover, a:focus {
+    color: #c94e50;
+    outline: none;
+}
+
+button:focus {
+    outline: none;
+}
+
+section {
+    padding: 1em;
+    text-align: center;
+}
+
+/* Header */
+.cosmo-header {
+    position: relative;
+    width: 100%;
+    padding: 1em 1em;
+    margin-top: 2.5em;
+    margin-bottom: 2.5em;
+    text-align: center;
+}
+
+.cosmo-header h1 {
+    margin: 0 auto;
+    font-weight: 800;
+    font-size: 3.75em;
+    line-height: 1;
+    color: #111111;
+}
+
+.cosmo-header h1 span {
+    display: block;
+    font-size: 50%;
+    font-weight: 400;
+    padding-top: 0.325em;
+}
+
+.cosmo-header h2 {
+    margin: 0 auto;
+    font-weight: 400;
+    font-size: 2.75em;
+    line-height: 1;
+    color: #111111;
+}
+
+.cosmo-header h2 span {
+    display: block;
+    font-size: 50%;
+    font-weight: 200;
+    padding-top: 0.325em;
+}
+
+.cosmo-links {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 0.69em;
+    line-height: 2.2;
+    padding: 1.61em 5em;
+}
+
+.cosmo-links a {
+    display: inline-block;
+    padding: 0 1em;
+    text-decoration: none;
+    letter-spacing: 1px;
+}
+
+.cosmo-icon:before {
+    margin: 0 4px;
+    text-transform: none;
+    font-weight: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-family: 'Lato';
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+}
+
+.cosmo-icon-drop:before {
+    content: "\e001";
+}
+
+.cosmo-icon-prev:before {
+    content: "\e004";
+}
+
+.cosmo-header img {
+    border-radius: 2%;
+}
+
+/*SEARCH*/
+.cosmo-search {
+    margin: 1em auto;
+    text-align: center;
+    vertical-align: middle;
+    display: table;
+}
+
+/*FOOTER*/
+.cosmo-footer {
+    margin: 3em 3em 3em 3em;
+    overflow:hidden;
+    box-shadow:0px 0px 2px 2px rgba(0,0,0,0.25);
+    border-radius:3px;
+    background:#FDFDF8;
+    display: block;
+}
+
+.cosmo-footer .footer-wall {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    padding: 1em 1em 1em 1em;
+    text-align: center;
+}
+
+.footer-wall figure {
+    display: inline-block;
+    position: relative;
+    margin: 3em 2em 1em 2em;
+    max-width: 400px;
+    max-height: 100px;
+}
+
+.status img {
+    width: 100%;
+    display: block;
+    position: relative;
+}
+
+.cosmo-footer .footer-social {
+    padding: 1em 1em 1em 1em;
+    min-width: 20%;
+    max-width: 100%;
+    margin: 0em auto;
+    list-style: none;
+    text-align: center;
+}
+
+.footer-social li {
+    display: inline-block;
+    min-width: 60px;
+    max-width: 60px;
+    min-height: 60px;
+    text-align: left;
+    position: relative;
+    margin: 0em 1em 3em 1em;
+}
+
+.footer-social figure {
+    margin: 0;
+    position: relative;
+}
+
+.footer-social a {
+    text-align: center;
+    color: #fff;
+}
+
+.footer-social img {
+    width: 100%;
+    display: block;
+    position: relative;
+}
+
+.cosmo-footer .footer-license {
+    font-weight: normal;
+    font-style: normal;
+    font-family: 'Lato';
+    text-align: center;
+    padding: 1em 1em 1em 1em;
+    position: relative;
+}
+
+.footer-license .copyleft{
+    display:inline-block;
+    transform: rotate(180deg);
+}
+
+.footer-license figure {
+    margin: 0;
+    position: relative;
+}
+
+.footer-license img {
+    padding: 1em 1em;
+}
+
+.cosmo-footer .footer-quote {
+    font-weight: normal;
+    font-style: normal;
+    font-family: 'Lato';
+    text-align: center;
+    padding: 1em 1em 1em 1em;
+    position: relative;
+
+}
+
+@media screen and (min-width: 716px) {
+    .footer-social li
+    {
+	margin: 0em 1em 1em 1em;
+    }
+}

@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+
+  <head>
+
+    <!-- META -->
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="description" content="My Research category" />
+    <meta name="keywords" content="cosmobird" />
+    <meta name="author" content="cosmobird" />
+
+    <!-- TITLE -->
+    <title>Cosmobird Research Category</title>
+
+    <!-- STYLE STHEETS -->
+    <link rel="stylesheet" type="text/css" href="../styles/category-style/category.css" />
+    <link rel="stylesheet" type="text/css" href="../styles/category-style/grid_caption_hover.css" />
+    <link rel="stylesheet" type="text/css" href="../styles/font-awesome/font-awesome.css" />
+    <link rel="stylesheet" type="text/css" href="../styles/balloons/balloon.css" />
+
+    <!-- SCRIPTS -->
+    <script type="text/javascript" src="../scripts/analytics/analytics.js"></script>
+
+  </head>
+
+  <body>
+
+    <div>
+
+      <!-- header -->
+      <header class="category-header">
+	<a href="../htmls/research.html" data-balloon="Exploration is endless" data-balloon-pos="down">
+	  <img src="../assets/pics/category/Research.png" alt="header" />
+	</a>
+      </header>
+      <!-- /header -->
+
+      <!-- grid -->
+      <ul class="grid">
+
+	<!-- Independent Research Stuff -->
+	<li>
+	  <figure data-balloon="Ever experienced independency ?" data-balloon-pos="up">
+	    <a href="../content/category/research/indie-research/indie-research.html">
+	      <img src="../assets/pics/content/Independent-Research.png" alt=Independent Research"">
+	      <figcaption>
+		Indie Research
+	      </figcaption>
+	    </a>
+	  </figure>
+	</li>
+
+	<!-- Complexity - Self Organizing - Fractals - Entropy - Edge of Chaos - Swarming - Agents -->
+	<li>
+	  <figure data-balloon="Natures Nature!" data-balloon-pos="up">
+	    <a href="../content/category/research/complexity/complexity.html">
+	      <img src="../assets/pics/content/Swarm.png" alt="Complexity">
+	      <figcaption>
+		Complexity
+	      </figcaption>
+	    </a>
+	  </figure>
+	</li>
+	
+	<!-- Spectroscopy Stuff -->
+	<li>
+	  <figure data-balloon="Psychedelics of Electro-Magnetics !" data-balloon-pos="up">
+	    <a href="../content/category/research/spectroscopy/spectroscopy.html">
+	      <img src="../assets/pics/content/Spectroscopy.png" alt="Commons essential Scientific tool">
+	      <figcaption>
+		Spectroscopy
+	      </figcaption>
+	    </a>
+	  </figure>
+	</li>
+
+	<!-- Battery Management Stuff -->
+	<li>
+	  <figure data-balloon="Know the Battery" data-balloon-pos="up">
+	    <a href="../content/category/research/bat-man/bat-man.html">
+	      <img src="../assets/pics/content/Battery-Mgmt.png" alt="Battery Management">
+	      <figcaption>
+		Battery mgmt.
+	      </figcaption>
+	    </a>
+	  </figure>
+	</li>
+	
+      </ul>
+      <!-- grid -->
+      
+    </div>
+</body>
+
+</html>

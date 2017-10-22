@@ -1,2 +1,2 @@
 # cosmobird.github.io
-web, blog, thought, expression
+wiki, web, blog, thought, expression

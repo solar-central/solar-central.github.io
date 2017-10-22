@@ -1,0 +1,118 @@
+@font-face {
+	font-weight: normal;
+	font-style: normal;
+	font-family: 'Lato';
+	src:url('../../assets/fonts/lato/Lato-Regular.eot');
+	src:url('../../assets/fonts/lato/Lato-Regular.woff') format('woff'),
+			url('../../assets/fonts/lato/Lato-Regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-weight: normal;
+	font-style: normal;
+	font-family: 'SourceCodePro';
+	src:url('../../assets/fonts/sourcecodepro/SourceCodePro-Regular.ttf') format('truetype');
+}
+
+*, *:after, *:before { -webkit-box-sizing: border-box; box-sizing: border-box; }
+.clearfix:before, .clearfix:after { content: ''; display: table; }
+.clearfix:after { clear: both; }
+
+html,body {
+	background: #fdfdf8; /*#b4bad2;*/
+	color: #111111;
+	font-weight: 400;
+	font-size: 1em;
+	font-family: 'Lato', Arial, sans-serif;
+	vertical-align: middle;
+}
+
+a {
+	color: #4e4a46;
+	text-decoration: none;
+	outline: none;
+}
+
+a:hover, a:focus {
+	color: #c94e50;
+	outline: none;
+}
+
+button:focus {
+	outline: none;
+}
+
+section {
+	padding: 1em;
+	text-align: center;
+}
+
+/* Header */
+.category-header {
+	position: relative;
+	width: 100%;
+	padding: 1em 1em;
+	margin-top: 2.5em;
+	text-align: center;
+}
+
+.category-header h1 {
+	margin: 0 auto;
+	font-weight: 800;
+	font-size: 3.75em;
+	line-height: 1;
+	color: #111111;
+}
+
+.category-header h1 span {
+	display: block;
+	font-size: 50%;
+	font-weight: 400;
+	padding-top: 0.325em;
+}
+
+.category-header h2 {
+	margin: 0 auto;
+	font-weight: 400;
+	font-size: 2.75em;
+	line-height: 1;
+	color: #111111;
+}
+
+.category-header h2 span {
+	display: block;
+	font-size: 50%;
+	font-weight: 200;
+	padding-top: 0.325em;
+}
+
+.category-links {
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 0.69em;
+	line-height: 2.2;
+	padding: 1.61em 5em;
+}
+
+.category-links a {
+	display: inline-block;
+	padding: 0 1em;
+	text-decoration: none;
+	letter-spacing: 1px;
+}
+
+.category-header img {
+	border-radius: 50%;
+	border-color: #3B3B3B;
+	box-shadow: 0px 0px 5px rgba(0,0,0,0.8);
+}
+
+.category-icon-drop:before {
+	content: "\e001";
+}
+
+.category-icon-prev:before {
+	content: "\e004";
+}
+
+

@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+
+<head>
+
+    <!-- META -->
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="description" content="My Communities category" />
+    <meta name="keywords" content="cosmobird" />
+    <meta name="author" content="cosmobird" />
+
+    <!-- TITLE -->
+    <title>Cosmobird Communities Category</title>
+
+    <!-- STYLE STHEETS -->
+    <link rel="stylesheet" type="text/css" href="../styles/category-style/category.css" />
+    <link rel="stylesheet" type="text/css" href="../styles/category-style/grid_caption_hover.css" />
+    <link rel="stylesheet" type="text/css" href="../styles/font-awesome/font-awesome.css" />
+    <link rel="stylesheet" type="text/css" href="../styles/balloons/balloon.css" />
+
+    <!-- SCRIPTS -->
+    <script type="text/javascript" src="../scripts/analytics/analytics.js"></script>
+
+</head>
+
+<body>
+
+    <div>
+
+  	<!-- header -->
+	<header class="category-header">
+		<a href="../htmls/community.html" data-balloon="Friendly Clubs, Communities & Societies" data-balloon-pos="down">
+			<img src="../assets/pics/category/Community.png" alt="header" />
+		</a>
+	</header>
+	<!-- /header -->
+
+      	<!-- grid -->
+	<ul class="grid">
+
+	  		<li>
+				  <figure data-balloon="First encounter with a geek Club" data-balloon-pos="up">
+					  <a href="https://ilugc.in/">
+					    	<img src="../assets/pics/content/ILUGC.png" alt="ilugc">
+					  <figcaption>
+					    	ILUGC
+					  </figcaption>
+					  </a>
+				  </figure>
+			</li>
+	  		<li>
+				  <figure data-balloon="HAMs' took time :)" data-balloon-pos="up">
+					  <a href="http://siars.org.in/">
+					    	<img src="../assets/pics/content/SIARS.png" alt="siars">
+					  <figcaption>
+					    	SIARS
+					  </figcaption>
+					  </a>
+				  </figure>
+			</li>
+	  		<li>
+				  <figure data-balloon="Diversity Embracers :D" data-balloon-pos="up">
+					  <a href="http://fsftn.org/">
+					    	<img src="../assets/pics/content/FSFTN.png" alt="fsftn">
+					  <figcaption>
+					    	FSFTN
+					  </figcaption>
+					  </a>
+				  </figure>
+			</li>
+	  		<li>
+				  <figure data-balloon="Systems lovers... :)" data-balloon-pos="up">
+					  <a href="http://fshm.gitlab.io/">
+					    	<img src="../assets/pics/content/FSHM.png" alt="fshm">
+					  <figcaption>
+					    	FSHM
+					  </figcaption>
+					  </a>
+				  </figure>
+			</li>
+	  		<li>
+				  <figure data-balloon="Folks in Bangalore" data-balloon-pos="up">
+					  <a href="https://fsmk.org/">
+					    	<img src="../assets/pics/content/FSMK.png" alt="fsmk">
+					  <figcaption>
+					    	FSMK
+					  </figcaption>
+					  </a>
+				  </figure>
+			</li>
+	  		<li>
+				  <figure data-balloon="Alternative thinkers ..!" data-balloon-pos="up">
+					  <a href="https://crabgrass.riseup.net/chennaimeshnetworkcommunity">
+					    	<img src="../assets/pics/content/CMNC.png" alt="cmnc">
+					  <figcaption>
+					    	CMNC
+					  </figcaption>
+					  </a>
+				  </figure>
+			</li>
+<!--			<li>
+				  <figure data-balloon="Free(dom)ing up the Data" data-balloon-pos="up">
+					  <a href="../content/category/communities/datameet.html">
+					    	<img src="../assets/pics/content/DataMeet.png" alt="datameet">
+					  <figcaption>
+					    	DataMeet
+					  </figcaption>
+					  </a>
+				  </figure>
+			</li>
+    			<li>
+				  <figure data-balloon="The Alliance" data-balloon-pos="up">
+					  <a href="../content/category/communities/dakf.html">
+					    	<img src="../assets/pics/content/DAKF.png" alt="dakf">
+					  <figcaption>
+					    	DAKF
+					  </figcaption>
+					  </a>
+				  </figure>
+			</li>
+    			<li>
+				  <figure data-balloon="Science Comrades" data-balloon-pos="up">
+					  <a href="../content/category/communities/tnsf.html">
+					    	<img src="../assets/pics/content/TNSF.png" alt="tnsf">
+					  <figcaption>
+					    	TNSF
+					  </figcaption>
+					  </a>
+				  </figure>
+			</li>
+    			<li>
+				  <figure data-balloon="Pirates... Yo" data-balloon-pos="up">
+					  <a href="../content/category/communities/pirates.html">
+					    	<img src="../assets/pics/content/Pirates.png" alt="pirates">
+					  <figcaption>
+					    	Indian Pirates
+					  </figcaption>
+					  </a>
+				  </figure>
+			</li>
+-->
+	</ul>
+		<!-- grid -->
+   </div>
+
+</body>
+
+<!-- SCRIPTS -->
+
+</html>

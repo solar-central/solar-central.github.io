@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+
+<head>
+
+  <!-- META -->
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta name="description" content="Content meta description" />
+  <meta name="keywords" content="cosmobird" />
+  <meta name="author" content="cosmobird" />
+
+  <!-- TITLE -->
+  <title>Template</title>
+
+  <!-- STYLE STHEETS -->
+  <link rel="stylesheet" type="text/css" href="../../styles/content-style/content-article.css" />
+  <link rel="stylesheet" type="text/css" href="../../styles/content-style/content-table.css" />
+  <link rel="stylesheet" type="text/css" href="../../styles/slides/ideal-image-slider/ideal-image-slider.css" />
+  <link rel="stylesheet" type="text/css" href="../../styles/slides/ideal-image-slider/themes/default.css" />
+  <link rel="stylesheet" type="text/css" href="../../styles/tabs/tabs.css" />
+  <link rel="stylesheet" type="text/css" href="../../styles/tabs/tabstyles.css" />
+  <link rel="stylesheet" type="text/css" href="../../styles/timeline/timelinejs.css" />
+  <link rel="stylesheet" type="text/css" href="../../styles/multimedia/video-js.css" />
+
+  <!-- SCRIPTS -->
+  <script type="text/javascript" src="../../scripts/generalizers/modernizr.custom_tabs.js"></script>
+  <script type="text/javascript" src="../../scripts/frontend-functionality/cbpFWTabs.js"></script>
+  <script type="text/javascript" src="../../scripts/generalizers/jquery-2.1.1.js"></script>
+  <script type="text/javascript" src="../../scripts/slides/ideal-image-slider.js"></script>
+  <script type="text/javascript" src="../../scripts/frontend-functionality/accordion.js"></script>
+  <script type="text/javascript" src="../../scripts/timeline/timelinejs.js"></script>
+  <script type="text/javascript" async src="../../mgmt/MathJax/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+  <script type="text/javascript" src="../../scripts/analytics/analytics.js"></script>
+
+</head>
+
+<body>
+
+  <!-- HEADER -->
+  <header class="content-header">
+    <h2> Header </h2>
+  </header>
+<!-- HEADER / -->
+
+<!-- AUTHOR INFO -->
+<div class="content-author-info">
+  <table class="content-table">
+    <thead class="content-table-head">
+      <tr>
+	<th>Author</th>
+	<th>Date</th>
+	<th>Time to Read</th>
+	<th>License</th>
+      </tr>
+    </thead>
+    <tbody class="content-table-body">
+      <tr>
+	<td>Cosmobird + Ganesh</td>
+	<td>10 Feb 2017</td>
+	<td>30 mins.</td>
+	<td><img src="../../content/resource/licenses/by-nc-sa.png" alt="cc-by-nc-sa"></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<!-- AUTHOR INFO / -->
+
+<!-- STICKY BAR -->
+<div class="sticky-container">
+  <ul class="sticky">
+    <li>
+      <a href="mailto:31gane@gmail.com">
+	<img title="" src="../../assets/pics/social/mail-32.png" alt="email">
+	<p>mail</p>
+      </a>
+    </li>
+    <li>
+      <a href="irc://irc.freenode.org/cosmobird">
+	<img title="" src="../../assets/pics/social/irc-32.png" alt="irc">
+	<p>irc</p>
+      </a>
+    </li>
+    <li>
+      <a href="https://mastodon.social/users/smith_ai">
+	<img title="" src="../../assets/pics/social/mastodon-32.png" alt="mastodon">
+	<p>toot</p>
+      </a>
+    </li>
+    <li>
+      <a href="https://vector.im/beta/#/room/#cosmo:matrix.org">
+	<img title="" src="../../assets/pics/social/riot-32.png" alt="riot">
+	<p>riot</p>
+      </a>
+    </li>
+    <li>
+      <a href="https://diasp.in/u/31gane">
+	<img title="" src="../../assets/pics/social/diaspora-32.png" alt="diaspora">
+	<p>pod</p>
+      </a>
+    </li>
+  </ul>
+</div>
+<!-- STICKY BAR /-->
+
+
+<!-- CONTENT -->
+<div class="content">
+
+  <p>Hey there <b>!</b></p>
+
+  <p><h3><i>DISCLAIMER :</i></h3></p>
+
+  <p>
+    If you are expecting some awesome stuff here... you might get regretted after knowing that i just
+    write what i felt sharing... it might be even dumb enough for you.. furthermore, i and this might
+    feel stupid enough for you ditch it.... :D
+  </p>
+
+
+
+<!-- PRE -->
+<pre>
+
+ <bud>@</bud>
+<bud>/.\</bud> ----+---------+
+<bud>/ \</bud>     | Dude !  |
+	+---------+
+
+	   		      				    +-------+---- ( me )
+	  		      				    | Yeah  |
+	  		      				    +-------+
+</pre>
+<!-- PRE / -->
+
+
+
+<!-- CHAPTER HEADER -->
+<div class="chapter-header"><span>HOW TO ?</span></div>
+<!-- CHAPTER HEADER / -->
+
+
+
+<!-- ATTRIBUTION -->
+		<p data-type="attribution">
+		  - XKCD
+		</p>
+<!-- ATTRIBUTION / -->
+
+
+
+<!-- FIGURE -->
+<figure>
+  <img style="width:768px; border-radius: 4px; box-shadow: 0 3px 5px rgba(0,0,0,0.3),0 0 0 1px rgba(0,0,0,0.08);"
+       src="../../assets/pics/misc/question-time.png" alt="question-time">
+  <figcaption>QUESTION THAT IS REASONABLE ?</figcaption>
+</figure>
+<!-- FIGURE / -->
+
+
+
+<!-- IMAGE SLIDER -->
+<figure> <!--images of 800x534 looks good-->
+  <div id="slider" class="image-slider">
+    <img data-src="../../../../content/resource/drawings/eclipse/mock_1.jpg" />
+    <img data-src="../../../../content/resource/drawings/eclipse/mock_2.jpg" />
+    <img data-src="../../../../content/resource/drawings/eclipse/mock_3.jpg" />
+  </div>
+  <figcaption> Mockups drawn for Visual Layouts</figcaption>
+</figure>
+<!-- IMAGE SLIDER /-->
+
+
+
+<!-- BLOCKQUOTE  -->
+<blockquote>
+  <b>Democracy</b> => Only when we defend the Constitution, Constitution will defend us.
+  <p data-type="attribution">
+    <img src="../../content/resource/pictures/uniqueid/johnfkennedy.png" alt="john kennedy">
+    - author
+  </p>
+</blockquote>
+<!-- BLOCKQUOTE /  -->
+
+
+
+<!-- TIMELINE -->
+<div id="my-timeline"></div>
+<!-- TIMELINE / -->
+
+
+
+<!-- VIDEO -->
+<div class="content-video">
+  <video id="vid-1" class="video-js vjs-big-play-centered" controls preload="auto" width="320" height="240"
+	 data-setup='{
+	 "techOrder": ["youtube", "html5"],
+	 "sources": [{ "type": "video/youtube", "src": "https://www.youtube.com/embed/oxTUC5I22LU"}]
+	 }'>
+  </video>
+</div>
+<!-- VIDEO / -->
+
+
+
+<!-- ACCORDION-->
+<div class="accordion">
+  <div class="accordion-section">
+    <a class="accordion-section-title" href="#accordion-1"><h3>Section1</h3></a>
+    <div id="accordion-1" class="accordion-section-content">
+      <p>
+
+      </p>
+    </div>
+
+    <a class="accordion-section-title" href="#accordion-2"><h3>Section2</h3></a>
+    <div id="accordion-2" class="accordion-section-content">
+      <p>
+
+      </p>
+    </div>
+  </div>
+</div>
+<!-- ACCORDION / -->
+
+
+
+</div>
+
+
+
+<!-- TABS -->
+<section>
+  <div class="tabs tabs-style-topline">
+    <nav>
+      <ul>
+	<li><a href="#section-topline-1"><span>Usual Stuff</span></a></li>
+	<li><a href="#section-topline-2"><span>CV</span></a></li>
+      </ul>
+    </nav>
+
+    <div class="content">
+
+      <section id="section-topline-1">
+	<p>
+
+	</p>
+      </section>
+
+      <section id="section-topline-2">
+	<p>
+
+	</p>
+      </section>
+    </div>
+  </div>
+</section>
+<!-- TABS / -->
+
+
+
+<!-- CONTENT / -->
+
+
+
+<!-- SEPARATOR -->
+<div class="content-horizontal-separator">
+  <br></br>
+</div>
+<!-- SEPARATOR / -->
+
+
+
+<!-- LINKS, DOWNLOADS, ATTRIBUTION -->
+<div class="content">
+
+  <p>
+    <h3><i>READINGS, LINKS & DOWNLOADS :</i></h3>
+  </p>
+
+  <p>
+    <ol>
+      <li>Stuff </li>
+    </ol>
+  </p>
+
+  <p>
+    <h3><i>CREDITS & ATTRIBUTIONS :</I></h3>
+    <ul>
+      <li><b>Stuff :</b></li>
+    </ul>
+  </p>
+
+</div>
+<!-- LINKS, DOWNLOADS, ATTRIBUTION / -->
+
+
+
+<!-- SEPARATOR -->
+<div class="content-horizontal-separator">
+  <br></br>
+</div>
+<!-- SEPARATOR / -->
+
+
+
+<!-- LICENSE -->
+<div class="content">
+  <figure>
+    <img src="../../content/resource/licenses/by-nc-sa.png" alt="cc-by-nc-sa">
+  </figure>
+</div>
+<!-- LICENSE / -->
+
+
+
+<!-- SEPARATOR -->
+<div class="content-horizontal-separator">
+  <br></br>
+</div>
+<!-- SEPARATOR / -->
+</body>
+
+
+
+<!-- SCRIPTS -->
+
+<!-- FOR IMAGE SLIDE / -->
+<script>
+  var slider = new IdealImageSlider.Slider({
+  selector: '#slider',
+  height: 600, // Required but can be set by CSS
+  interval: 5000,
+  transitionDuration: 200
+  });
+</script>
+<!-- FOR IMAGE SLIDE / -->
+
+
+
+<!-- FOR VIDEO -->
+<script type="text/javascript" src="../../scripts/multimedia/video.js"></script>
+<script type="text/javascript" src="../../scripts/multimedia/Youtube.js"></script>
+<!-- FOR VIDEO / -->
+
+
+
+<!-- FOR TABBING -->
+<script>
+  (function() {
+
+  [].slice.call( document.querySelectorAll( '.tabs' ) ).forEach( function( el ) {
+  new CBPFWTabs( el );
+  });
+
+  })();
+</script>
+<!-- FOR TABBING /-->
+
+
+
+<!-- FOR TIMELINING -->
+<script type="text/javascript">
+  window.timeline = new TL.Timeline('generic-timeline', '../../content/resource/data/*.json');
+</script>
+<!-- FOR TIMELINING / -->
+
+</html>

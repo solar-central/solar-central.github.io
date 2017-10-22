@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+
+<head>
+
+    <!-- META -->
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="description" content="Papers" />
+    <meta name="keywords" content="cosmobird" />
+    <meta name="author" content="cosmobird" />
+
+    <!-- TITLE -->
+    <title>Papers</title>
+
+    <!-- STYLE STHEETS -->
+    <link rel="stylesheet" type="text/css" href="../../../styles/content-style/content-article.css" />
+    <link rel="stylesheet" type="text/css" href="../../../styles/content-style/content-table.css" />
+
+    <!-- SCRIPTS -->
+    <script type="text/javascript" src="../../../scripts/analytics/analytics.js"></script>
+
+</head>
+
+<body>
+
+	<div class="sticky-container">
+		<ul class="sticky">
+			<li>
+				<a href="mailto:31gane@gmail.com">
+					<img title="" src="../../../assets/pics/social/mail-32.png" alt="email">
+					<p>mail</p>
+				</a>
+			</li>
+			<li>
+				<a href="irc://irc.freenode.org/cosmobird">
+					<img title="" src="../../../assets/pics/social/irc-32.png" alt="irc">
+					<p>irc</p>
+				</a>
+			</li>
+			<li>
+				<a href="https://mastodon.social/users/smith_ai">
+					<img title="" src="../../../assets/pics/social/mastodon-32.png" alt="mastodon">
+					<p>toot</p>
+				</a>
+			</li>
+			<li>
+				<a href="https://vector.im/beta/#/room/#cosmo:matrix.org">
+					<img title="" src="../../../assets/pics/social/riot-32.png" alt="riot">
+					<p>riot</p>
+				</a>
+			</li>
+			<li>
+				<a href="https://diasp.in/u/31gane">
+					<img title="" src="../../../assets/pics/social/diaspora-32.png" alt="diaspora">
+					<p>pod</p>
+				</a>
+			</li>
+		</ul>
+	</div>
+
+  	<table class="content-table">
+	  <thead class="content-table-head">
+		  <tr>
+		    <th>Publisher</th>
+		    <th>Type</th>
+		    <th>Topic</th>
+		    <th>Date</th>
+		  </tr>
+	  </thead>
+	  <tbody class="content-table-body">
+		  <tr>
+		    <td>link</a></td>
+		    <td>Paper</td>
+		    <td>link</td>
+		    <td>DD MMMM YYYY</td>
+		  </tr>
+	  </tbody>
+	</table>
+
+      <!-- /container -->
+
+</body>
+
+<!-- SCRIPTS -->
+
+</html>

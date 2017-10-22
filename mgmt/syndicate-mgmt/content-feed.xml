@@ -18,17 +18,186 @@
 
         <atom:link href="https://cosmobird.github.io/mgmt/syndicate-mgmt/content-feed.xml" rel="self" type="application/rss+xml"/>
 
-        <item>
-            <title>Hope for Amy walters</title>
-            <link>https://cosmobird.github.io/philosophy.html</link>
-            <guid>https://cosmobird.github.io/philosophy.html</guid>
-            <category>Philosophy</category>
+	<item>
+            <title>Presentations</title>
+            <link>https://cosmobird.github.io/content/category/artwork/polygon-art/polygon-art.html</link>
+            <guid>https://cosmobird.github.io/content/category/artwork/polygon-art/polygon-art.html</guid>
+            <category>Artwork</category>
             <description>
-                Life and Death
+                The presentations i have created so far, useful during talks, sessions, self knowledge org.
             </description>
-            <author>Sandra Paulson</author>
-            <pubDate>Fri, 03 Jun 2016 04:00:00 GMT</pubDate>
-            <creativeCommons:license>http://creativecommons.org/licenses/by-sa/2.5/</creativeCommons:license>
+            <author>Cosmobird Ganesh</author>
+            <pubDate>Wed, 28 Dec 2016 04:00:00 GMT</pubDate>
+            <creativeCommons:license>https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode</creativeCommons:license>
+        </item>
+
+	<item>
+            <title>Papers</title>
+            <link>https://cosmobird.github.io/content/category/publications/papers.html</link>
+            <guid>https://cosmobird.github.io/content/category/publications/papers.html</guid>
+            <category>Publications</category>
+            <description>
+                A few publication i have contributed to.
+            </description>
+            <author>Cosmobird Ganesh</author>
+            <pubDate>Fri, 30 Dec 2016 04:00:00 GMT</pubDate>
+            <creativeCommons:license>https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode</creativeCommons:license>
+        </item>
+
+	<item>
+            <title>Books and Articles</title>
+            <link>https://cosmobird.github.io/content/category/publications/books-articles.html</link>
+            <guid>https://cosmobird.github.io/content/category/publications/books-articles.html</guid>
+            <category>Publications</category>
+            <description>
+                A few books, reports, articles i have contributed to.
+            </description>
+            <author>Cosmobird Ganesh</author>
+            <pubDate>Fri, 30 Dec 2016 04:00:00 GMT</pubDate>
+            <creativeCommons:license>https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode</creativeCommons:license>
+        </item>
+
+        <item>
+            <title>My Conky Polygon Bar</title>
+            <link>https://cosmobird.github.io/content/category/artwork/polygon-art/polygon-art.html</link>
+            <guid>https://cosmobird.github.io/content/category/artwork/polygon-art/polygon-art.html</guid>
+            <category>Artwork</category>
+            <description>
+                How i created UI for Conky - a polygon art based bar few years ago !
+            </description>
+            <author>Cosmobird Ganesh</author>
+            <pubDate>Mon, 2 Jan 2017 04:00:00 GMT</pubDate>
+            <creativeCommons:license>https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode</creativeCommons:license>
+        </item>
+
+        <item>
+            <title>The Knob</title>
+            <link>https://cosmobird.github.io/content/category/artwork/knob/knob.html</link>
+            <guid>https://cosmobird.github.io/content/category/artwork/knob/knob.html</guid>
+            <category>Artwork</category>
+            <description>
+                How to design a knob using Inkscape, might be useful for Electronics/Instrumentation.
+            </description>
+            <author>Cosmobird Ganesh</author>
+            <pubDate>Thu, 5 Jan 2017 04:00:00 GMT</pubDate>
+            <creativeCommons:license>https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode</creativeCommons:license>
+        </item>
+
+        <item>
+            <title>How about making a Comic Strip ?</title>
+            <link>https://cosmobird.github.io/content/category/artwork/diy-comic/diy-comic.html</link>
+            <guid>https://cosmobird.github.io/content/category/artwork/diy-comic/diy-comic.html</guid>
+            <category>Artwork</category>
+            <description>
+                Interested in comics, i draw in paper, and this is about how to do something using inkscape.
+            </description>
+            <author>Cosmobird Ganesh</author>
+            <pubDate>Mon, 9 Jan 2017 04:00:00 GMT</pubDate>
+            <creativeCommons:license>https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode</creativeCommons:license>
+        </item>
+
+        <item>
+            <title>Know thy Terrain</title>
+            <link>https://cosmobird.github.io/content/category/hackwork/try-terrain/try-terrain.html</link>
+            <guid>https://cosmobird.github.io/content/category/hackwork/try-terrain/try-terrain.html</guid>
+            <category>Hackwork</category>
+            <description>
+                Sharing my learning in GIS - in Topography
+            </description>
+            <author>Cosmobird Ganesh</author>
+            <pubDate>Mon, 30 Jan 2017 04:00:00 GMT</pubDate>
+            <creativeCommons:license>https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode</creativeCommons:license>
+        </item>
+
+        <item>
+            <title>FSMI 2nd International Conference - 4CCON</title>
+            <link>https://cosmobird.github.io/content/category/meetups/4ccon/4ccon.html</link>
+            <guid>https://cosmobird.github.io/content/category/meetups/4ccon/4ccon.html</guid>
+            <category>Meetups</category>
+            <description>
+                My 5day fun and intellectual experience in 4CCON
+            </description>
+            <author>Cosmobird Ganesh</author>
+            <pubDate>Sun, 5 Feb 2017 04:00:00 GMT</pubDate>
+            <creativeCommons:license>https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode</creativeCommons:license>
+        </item>
+
+        <item>
+            <title>Systems of Infrastructure</title>
+            <link>https://cosmobird.github.io/content/category/systems/infrastructure/infrastructure.html</link>
+            <guid>https://cosmobird.github.io/content/category/systems/infrastructure/infrastructure.html</guid>
+            <category>Systems</category>
+            <description>
+                Understanding Infrastructures, its systems and networks
+            </description>
+            <author>Cosmobird Ganesh</author>
+            <pubDate>Fri, 10 Feb 2017 04:00:00 GMT</pubDate>
+            <creativeCommons:license>https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode</creativeCommons:license>
+        </item>
+
+	<item>
+            <title>Activism - Disobey</title>
+            <link>https://cosmobird.github.io/content/category/activism/civil-disobey/know.html</link>
+            <guid>https://cosmobird.github.io/content/category/activism/civil-disobey/know.html</guid>
+            <category>Activism</category>
+            <description>
+                What about Civil Disobedience ?
+            </description>
+            <author>Cosmobird Ganesh</author>
+            <pubDate>Sat, 18 Feb 2017 04:00:00 GMT</pubDate>
+            <creativeCommons:license>https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode</creativeCommons:license>
+        </item>
+
+	<item>
+            <title>Communication Networks - Organization</title>
+            <link>https://cosmobird.github.io/content/category/systems/communications/node-hack/org.html</link>
+            <guid>https://cosmobird.github.io/content/category/systems/communications/node-hack/org.html</guid>
+            <category>Systems - Communications</category>
+            <description>
+                How to Organize stuff for booting a Communication Infrastructure Network ?
+            </description>
+            <author>Cosmobird Ganesh</author>
+            <pubDate>Sat, 4 Mar 2017 04:00:00 GMT</pubDate>
+            <creativeCommons:license>https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode</creativeCommons:license>
+        </item>
+
+	<item>
+            <title>Communication Networks - Supplying Electric Power</title>
+            <link>https://cosmobird.github.io/content/category/systems/communications/node-hack/pwr.html</link>
+            <guid>https://cosmobird.github.io/content/category/systems/communications/node-hack/pwr.html</guid>
+            <category>Systems - Communications</category>
+            <description>
+                Organizing Ideas, and related stuff for having a self reliable Power supply infrastructure
+            </description>
+            <author>Cosmobird Ganesh</author>
+            <pubDate>Fri, 10 Mar 2017 04:00:00 GMT</pubDate>
+            <creativeCommons:license>https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode</creativeCommons:license>
+        </item>
+
+	<item>
+            <title>Communication Networks - Hardware Devices</title>
+            <link>https://cosmobird.github.io/content/category/systems/communications/node-hack/hw.html</link>
+            <guid>https://cosmobird.github.io/content/category/systems/communications/node-hack/hw.html</guid>
+            <category>Systems - Communications</category>
+            <description>
+                What are all the conceptual/real hardware devices required to setup a Commons Communication Network ?
+            </description>
+            <author>Cosmobird Ganesh</author>
+            <pubDate>Fri, 28 Mar 2017 04:00:00 GMT</pubDate>
+            <creativeCommons:license>https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode</creativeCommons:license>
+        </item>
+
+	<item>
+            <title>Policy - Unique ID</title>
+            <link>https://cosmobird.github.io/content/category/</link>
+            <guid>https://cosmobird.github.io/content/category/</guid>
+            <category>Activism - Policy - Identification</category>
+            <description>
+                In the age of ICT, evolving democracy people must be aware about technological determinism & its adverse implications
+            </description>
+            <author>Cosmobird Ganesh</author>
+            <pubDate>Fri, 209 June 2017 04:00:00 GMT</pubDate>
+            <creativeCommons:license>https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode</creativeCommons:license>
         </item>
 
     </channel>
